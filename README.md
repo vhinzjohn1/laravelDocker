@@ -49,7 +49,7 @@ Follow the instructions below to set up your project.
 
 <!-- USAGE EXAMPLES -->
 ## Run App With GNU Make (UNIX Based OS: MacOS, Linux)
-
+- 1st Step: run - `make run-app-with-setup-db` : build docker and start all docker containers with Laravel setup + database migration and seeder
 - `make run-app-with-setup` : build docker and start all docker containers with Laravel setup
 - `make run-app-with-setup-db` : build docker and start all docker containers with Laravel setup + database migration and seeder
 - `make run-app` : start all docker container
